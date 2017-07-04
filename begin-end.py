@@ -1,5 +1,9 @@
 import sys
 
+"""
+This is to help diagnose brace and begin/end mismatch errors.
+"""
+
 #
 # TODO: handle backslash escapes
 #
